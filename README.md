@@ -38,7 +38,7 @@ Herramienta profesional para gestionar permisos de usuarios en bases de datos Po
 
 ### Opción 2: Desde GitHub
 
-1. Descargar ZIP desde: [Releases](https://github.com/tu-usuario/asignacion-sig-plugin/releases)
+1. Descargar ZIP desde: [Releases](https://github.com/LeonardoMartinez000/asignacion-sig-plugin/releases)
 2. Extraer en la carpeta de plugins:
    - **Windows**: `C:\Users\[usuario]\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins\`
    - **Linux**: `~/.local/share/QGIS/QGIS3/profiles/default/python/plugins/`
@@ -54,7 +54,7 @@ Herramienta profesional para gestionar permisos de usuarios en bases de datos Po
 3. Click en **Configuración**
 4. Agregar repositorio personalizado:
    - **Nombre**: `Asignación SIG`
-   - **URL**: `https://raw.githubusercontent.com/tu-usuario/asignacion-sig-plugin/main/plugin.xml`
+   - **URL**: `https://github.com/LeonardoMartinez000/asignacion-sig-plugin/main/plugin.xml`
 5. Aceptar
 6. Buscar `Asignación SIG`
 7. Instalar
@@ -223,7 +223,7 @@ Este proyecto está bajo la Licencia GNU General Public License v2.0. Ver archiv
 
 ## 🆘 Soporte
 
-- **Issues**: [GitHub Issues](https://github.com/tu-usuario/asignacion-sig-plugin/issues)
+- **Issues**: [GitHub Issues](https://github.com/LeonardoMartinez000/asignacion-sig-plugin/issues)
 - **Email**: leonardo.martinez@servinformacion.com
 - **Documentación**: Ver archivos .md en el repositorio
 
