@@ -6,7 +6,7 @@
     <qgis_minimum_version>3.0</qgis_minimum_version>
     <qgis_maximum_version>3.99</qgis_maximum_version>
     <homepage>https://github.com/LeonardoMartinez000/asignacion-sig-plugin</homepage>
-    <file_name>asignacion-sig-plugin-4.0.zip</file_name>
+    <file_name>asignacion_sig</file_name>
     <icon>https://raw.githubusercontent.com/LeonardoMartinez000/asignacion-sig-plugin/main/asignacion_sig/icon.png</icon>
     <author_name>Servinformación</author_name>
     <download_url>https://github.com/LeonardoMartinez000/asignacion-sig-plugin/releases/download/v4.0/asignacion-sig-plugin-4.0.zip</download_url>
