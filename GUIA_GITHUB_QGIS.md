@@ -175,7 +175,7 @@ GNU General Public License v2.0
 
 3. **Clonar repositorio localmente**:
 ```bash
-git clone https://github.com/tu-usuario/asignacion-sig-plugin.git
+git clone https://github.com/LeonardoMartinez000/asignacion-sig-plugin.git
 cd asignacion-sig-plugin
 ```
 
@@ -217,18 +217,18 @@ Crear archivo `plugin.xml` en la raíz del repositorio:
     <version>4.0</version>
     <qgis_minimum_version>3.0</qgis_minimum_version>
     <qgis_maximum_version>3.99</qgis_maximum_version>
-    <homepage>https://github.com/tu-usuario/asignacion-sig-plugin</homepage>
+    <homepage>https://github.com/LeonardoMartinez000/asignacion-sig-plugin</homepage>
     <file_name>asignacion-sig-plugin-4.0.zip</file_name>
-    <icon>https://raw.githubusercontent.com/tu-usuario/asignacion-sig-plugin/main/asignacion_sig/icon.png</icon>
+    <icon>https://raw.githubusercontent.com/LeonardoMartinez000/asignacion-sig-plugin/main/asignacion_sig/icon.png</icon>
     <author_name>Servinformación</author_name>
-    <download_url>https://github.com/tu-usuario/asignacion-sig-plugin/releases/download/v4.0/asignacion-sig-plugin-4.0.zip</download_url>
-    <uploaded_by>tu-usuario</uploaded_by>
+    <download_url>https://github.com/LeonardoMartinez000/asignacion-sig-plugin/releases/download/v4.0/asignacion-sig-plugin-4.0.zip</download_url>
+    <uploaded_by>LeonardoMartinez000</uploaded_by>
     <create_date>2026-03-16</create_date>
     <update_date>2026-03-16</update_date>
     <experimental>False</experimental>
     <deprecated>False</deprecated>
-    <tracker>https://github.com/tu-usuario/asignacion-sig-plugin/issues</tracker>
-    <repository>https://github.com/tu-usuario/asignacion-sig-plugin</repository>
+    <tracker>https://github.com/LeonardoMartinez000/asignacion-sig-plugin/issues</tracker>
+    <repository>https://github.com/LeonardoMartinez000/asignacion-sig-plugin</repository>
     <tags>postgresql,permissions,database,qgis</tags>
   </pyqgis_plugin>
 </plugins>
@@ -247,7 +247,7 @@ git push origin v4.0
 ```
 
 2. **Crear Release en GitHub**:
-   - Ir a: https://github.com/tu-usuario/asignacion-sig-plugin/releases
+   - Ir a: https://github.com/LeonardoMartinez000/asignacion-sig-plugin/releases
    - Click en "Create a new release"
    - Tag: v4.0
    - Title: "Asignación SIG v4.0"
@@ -277,7 +277,7 @@ zip -r asignacion-sig-plugin-4.0.zip asignacion_sig/ -x "*.pyc" "__pycache__/*" 
 
 **Opción A: Instalación Manual**
 
-1. Descargar ZIP desde: https://github.com/tu-usuario/asignacion-sig-plugin/releases
+1. Descargar ZIP desde: https://github.com/LeonardoMartinez000/asignacion-sig-plugin/releases
 2. Extraer en:
    - **Windows**: `C:\Users\[usuario]\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins\`
    - **Linux**: `~/.local/share/QGIS/QGIS3/profiles/default/python/plugins/`
@@ -293,7 +293,7 @@ zip -r asignacion-sig-plugin-4.0.zip asignacion_sig/ -x "*.pyc" "__pycache__/*" 
 3. Click en "Configuración"
 4. Agregar repositorio personalizado:
    - Nombre: "Asignación SIG"
-   - URL: `https://raw.githubusercontent.com/tu-usuario/asignacion-sig-plugin/main/plugin.xml`
+   - URL: `https://raw.githubusercontent.com/LeonardoMartinez000/asignacion-sig-plugin/main/plugin.xml`
 5. Aceptar
 6. Buscar "Asignación SIG"
 7. Instalar
