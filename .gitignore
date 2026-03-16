@@ -139,3 +139,4 @@ logs/
 *.zip
 *.tar.gz
 plugin.xml.bak
+asignacion_sig/logs/
