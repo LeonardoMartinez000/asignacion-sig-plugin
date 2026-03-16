@@ -1,0 +1,48 @@
+# This file contains metadata for your plugin.
+
+# This file should be included when you package your plugin.# Mandatory items:
+
+[general]
+name=Asignacion SIG
+qgisMinimumVersion=3.0
+qgisMaximumVersion=3.99
+description=Herramienta para gestionar permisos de usuarios en bases de datos PostgreSQL
+version=4.0
+author=Servinformacion
+email=leonardo.martinez@servinformacion.com
+
+about=Plugin QGIS para asignar, actualizar y revocar permisos de usuarios en bases de datos PostgreSQL. Incluye auditoría completa y logging en base de datos dedicada.
+
+tracker=https://github.com/tu-usuario/asignacion-sig-plugin/issues
+repository=https://github.com/tu-usuario/asignacion-sig-plugin
+# End of mandatory metadata
+
+# Recommended items:
+
+hasProcessingProvider=no
+changelog=
+    4.0 - Logging en base de datos 00_LogGestionUsuarios, interfaz mejorada, actualizaciones automáticas
+    3.3 - Ajustes visuales fase 2, panel de resumen mejorado
+    1.0.1 - Versión inicial
+
+# Tags are comma separated with spaces allowed
+tags=postgresql,permissions,database,qgis,users,grants,revoke
+
+homepage=https://github.com/tu-usuario/asignacion-sig-plugin
+category=Database
+icon=icon.png
+
+# experimental flag
+experimental=False
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+
+# Since QGIS 3.8, a comma separated list of plugins to be installed
+# (or upgraded) can be specified.
+# Check the documentation for more information.
+# plugin_dependencies=
+
+# If the plugin can run on QGIS Server.
+server=False
+
