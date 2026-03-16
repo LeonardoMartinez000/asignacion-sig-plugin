@@ -13,8 +13,8 @@ email=leonardo.martinez@servinformacion.com
 
 about=Plugin QGIS para asignar, actualizar y revocar permisos de usuarios en bases de datos PostgreSQL. Incluye auditoría completa y logging en base de datos dedicada.
 
-tracker=https://github.com/tu-usuario/asignacion-sig-plugin/issues
-repository=https://github.com/tu-usuario/asignacion-sig-plugin
+tracker=https://github.com/LeonardoMartinez000/asignacion-sig-plugin/issues
+repository=https://github.com/LeonardoMartinez000/asignacion-sig-plugin
 # End of mandatory metadata
 
 # Recommended items:
@@ -28,7 +28,7 @@ changelog=
 # Tags are comma separated with spaces allowed
 tags=postgresql,permissions,database,qgis,users,grants,revoke
 
-homepage=https://github.com/tu-usuario/asignacion-sig-plugin
+homepage=https://github.com/LeonardoMartinez000/asignacion-sig-plugin
 category=Database
 icon=icon.png
 
