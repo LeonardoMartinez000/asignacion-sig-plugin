@@ -10,18 +10,9 @@
     <icon>https://raw.githubusercontent.com/LeonardoMartinez000/asignacion-sig-plugin/main/asignacion_sig/icon.png</icon>
     <author_name>Servinformación</author_name>
     <download_url>https://github.com/LeonardoMartinez000/asignacion-sig-plugin/releases/download/v4.0/asignacion-sig-plugin-4.0.zip</download_url>
-    <uploaded_by>LeonardoMartinez000</uploaded_by>
-    <create_date>2026-03-16</create_date>
-    <update_date>2026-03-16</update_date>
-    <experimental>False</experimental>
-    <deprecated>False</deprecated>
     <tracker>https://github.com/LeonardoMartinez000/asignacion-sig-plugin/issues</tracker>
     <repository>https://github.com/LeonardoMartinez000/asignacion-sig-plugin</repository>
     <tags>postgresql,permissions,database,qgis,users,grants,revoke</tags>
-    <changelog>
-      4.0 - Logging en base de datos 00_LogGestionUsuarios, interfaz mejorada, actualizaciones automáticas
-      3.3 - Ajustes visuales fase 2, panel de resumen mejorado
-      1.0.1 - Versión inicial
-    </changelog>
+    <changelog version="4.0">Logging en base de datos 00_LogGestionUsuarios, interfaz mejorada, actualizaciones automáticas</changelog>
   </pyqgis_plugin>
 </plugins>
